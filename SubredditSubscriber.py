@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
+import chromedriver_binary
 
 #gobbles up text file of r/subredditname seperating by whitespace
 #loads from that sub page and clicks join button
