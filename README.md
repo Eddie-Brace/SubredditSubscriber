@@ -15,5 +15,6 @@ Sub names seperated only by whitespace and "r/" as shown above.
 Run as:
 ```bash
 pip install selenium
+pip install chromedriver-binary==your-chrome-version-or-closest-preceding
 python3 SubredditSubscriber.py
 ```
