@@ -10,7 +10,7 @@ r/redscarepod
 r/geopolitics
 r/dogelore
 ```
-Sub names seperated only by whitespace and "r/" as shown above.
+Sub names should be seperated only by whitespace and "r/" as shown above. This can be done easily by copying the subreddit list (top-left of page) from your old account, chopping off the ends, and using find-all to replace "Subreddit Icon" with a blank string.
 
 Run as:
 ```bash
